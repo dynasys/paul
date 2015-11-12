@@ -172,7 +172,7 @@ footer {
 }
 
 #certs {
-        margin-left: 3%;
+    margin-left: 3%;
     margin-right: 3%;
     margin-top: 3%;
     margin-bottom: 3%;
@@ -185,5 +185,33 @@ footer {
     margin-bottom: 3%;
     padding-bottom: 100px;
 }
+
+
+
+/* EDIT PROFILE PAGE */
+
+form {
+    padding-top: 2%;
+    padding-left: 4%;
+}
+
+.bigbox {
+    width: 60%;
+    height: 50px;
+    padding: 50px;
+}
+
+
+
+/* Search page */
+
+
+#results {
+    
+}
+
+
+
+
 
 
